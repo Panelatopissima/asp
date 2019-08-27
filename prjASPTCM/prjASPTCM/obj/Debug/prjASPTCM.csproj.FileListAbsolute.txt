@@ -1,0 +1,165 @@
+c:\users\etesp\documents\visual studio 2012\Projects\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+c:\users\etesp\documents\visual studio 2012\Projects\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+c:\users\etesp\documents\visual studio 2012\Projects\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+c:\users\etesp\documents\visual studio 2012\Projects\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+c:\users\etesp\documents\visual studio 2012\Projects\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\ETESP\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\ETESP\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+E:\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+E:\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+E:\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+E:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+E:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+E:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+I:\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+I:\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+I:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+I:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+I:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+F:\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+F:\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+F:\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+F:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+F:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+F:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+F:\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\admin\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\admin\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\admin\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\admin\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\admin\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\phs\Desktop\ESCOLA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+E:\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+E:\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+E:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+E:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+E:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+F:\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\phs\Desktop\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+F:\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+F:\GSO\GSO\Nova pasta (2)\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\prjASPTCM-20181105T154119Z-001\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\ETESP\Desktop\prjASPTCM-20181105T154119Z-001\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\prjASPTCM-20181105T154119Z-001\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Desktop\prjASPTCM-20181105T154119Z-001\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\ETESP\Desktop\prjASPTCM-20181105T154119Z-001\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojAssemblyReference.cache
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\Murasaki\Documents\Visual Studio 2017\Projects\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\admin\Desktop\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\admin\Desktop\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\admin\Desktop\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\admin\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\admin\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\admin\Downloads\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\admin\Downloads\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\admin\Downloads\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\admin\Downloads\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\admin\Downloads\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\phs\Desktop\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\taok\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\ETESP\Desktop\taok\PORRA\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\taok\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Desktop\taok\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\ETESP\Desktop\taok\PORRA\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\PEDRO\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\ETESP\Desktop\PEDRO\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\PEDRO\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Desktop\PEDRO\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\ETESP\Desktop\PEDRO\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\phs\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\T-Gamer\Downloads\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\admin\Desktop\tudo\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\admin\Desktop\tudo\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\admin\Desktop\tudo\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\admin\Desktop\tudo\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tudo\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\admin\Desktop\tudo\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\ETESP\Desktop\OFICIAL\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\ETESP\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\ETESP\Desktop\OFICIAL\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\T-Gamer\Desktop\TCM\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\Lab\Desktop\ASP\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\Lab\Desktop\ASP\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\Lab\Desktop\ASP\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\Lab\Desktop\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\Lab\Desktop\ASP\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\Lab\Desktop\novo asp\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\Lab\Desktop\novo asp\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\Lab\Desktop\novo asp\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\Lab\Desktop\novo asp\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\novo asp\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\Lab\Desktop\novo asp\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
+C:\Users\Lab\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll.config
+C:\Users\Lab\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.dll
+C:\Users\Lab\Desktop\prjASPTCM\prjASPTCM\bin\prjASPTCM.pdb
+C:\Users\Lab\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.dll
+C:\Users\Lab\Desktop\prjASPTCM\prjASPTCM\obj\Debug\prjASPTCM.pdb
